@@ -8,9 +8,6 @@ please follow these steps
 
 
 
-here php is user to run php by command line
-
-final.php is the file which will be run and also consider 0 argument as per php
 
 A is the source argument
 
