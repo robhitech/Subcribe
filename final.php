@@ -67,7 +67,8 @@ protected function searchForStart($source) {
 
    }  else {
 
-   	return null;	
+   	//return null;	
+   	exit('Path is not Find');
 
    }
    
